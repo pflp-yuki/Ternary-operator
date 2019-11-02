@@ -1,0 +1,3 @@
+const x = true 
+        ? "true" 
+        : "false";
